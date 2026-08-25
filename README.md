@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software. Experiência na<br>construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos<br>no ecossistema JavaScript, TypeScript e React. Possui sólida bagagem em gestão operacional e controle de estoque, agregando maturidade,<br>organização e visão de processos ao desenvolvimento de soluções tecnológicas. <br>
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software. Experiência na<br>construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos<br>no ecossistema JavaScript, TypeScript e React.
 
 
 ## 🌐 Socials:
@@ -17,5 +17,3 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvi
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dressaDevv&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
