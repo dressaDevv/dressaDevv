@@ -12,8 +12,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvi
 ![](https://streak-stats.demolab.com/?user=dressaDevv&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dressaDevv&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=dressaDevv&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+<img data-importer="snake" src="https://raw.githubusercontent.com/dressaDevv/dressaDevv/snake-output/snake.svg" alt="Snake animation" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dressaDevv&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+###
