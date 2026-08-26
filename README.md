@@ -5,7 +5,7 @@
 ###
 
 # 💫 About Me:
-Oii! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software. Possuo experiência na construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos<br>no ecossistema JavaScript, TypeScript e React.
+Oii! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software.<br>Possuo experiência na construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos no ecossistema JavaScript, TypeScript e React.
 
 
 ## 🌐 Socials:
