@@ -1,11 +1,10 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=104&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
-
 ###
 
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software. Experiência na<br>construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos<br>no ecossistema JavaScript, TypeScript e React.
+Oii! Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento backend e arquitetura de software. Possuo experiência na<br>construção de APIs RESTful utilizando Java, integração com banco de dados MySQL e containerização com Docker, além de conhecimentos<br>no ecossistema JavaScript, TypeScript e React.
 
 
 ## 🌐 Socials:
